@@ -1,0 +1,40 @@
+.listc {
+	border-collapse: collapse;
+	width: 100%;
+	margin-bottom: 20px;
+	font-family: tahoma; 
+	font-size: 12pt;
+	padding-top:5px;
+	
+}
+
+.listc label.error {
+  width: 130px;
+  display: block;
+  float: right;
+  color: red;
+  padding-left: 10px;
+  background: url(../images/unvalid.gif) no-repeat;
+}
+
+.listc label.valid {
+  width: 130px;
+  background: url(../images/ok.png)  no-repeat;
+  display: block;
+  text-indent: -9999px;
+  padding-left: 10px;
+  float: right;
+  
+}
+.a{ 
+width:200px;
+padding-bottom:2px;
+padding-top:2px;
+}
+
+.b{
+	padding-bottom:2px;
+	padding-top:2px;
+float:left;	
+width:350px;
+}

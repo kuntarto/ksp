@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+html, body {height:auto;}
+body {
+	background:#000033;	
+	text-align:center;
+	margin:0;
+	font:normal 11px/15px verdana,serif;
+	background-image:  -moz-radial-gradient(center 45deg,circle cover, #99ccff , #000033);
+background-image: -webkit-gradient(radial, 50% 50%, 0, 50% 50%,800, from(#99ccff ), to(#000033));
+	}
+	
+#daddyy {
+	background: #FFF;
+	
+	/* height:664px;*/
+	height: auto;
+	padding-left:50px;
+	padding-top:10px;
+	width:1050px;
+	margin:0 auto -95px auto;
+	text-align:left;
+box-shadow:
+0px 2px 2px 0px rgba(0, 0, 0, 0.5) inset,
+0px 2px 2px 0px rgba(255, 255, 255, 0.5);
+border-radius: 15px;
+
+
+	
+	}
+* html #daddyy {height:100%}
+#headerr {height:100px;
+padding-left:50px;
+width:950px;
+}
+
+#contentt {height: auto;
+margin-top:20px;
+
+padding-left:50px;
+width:950px;
+padding-bottom:20px;
+
+}
